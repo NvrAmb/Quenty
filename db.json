@@ -1,0 +1,17 @@
+{
+  "Producto": {
+    "codigo": "b",
+    "nombre": "d",
+    "uri": "f",
+    "escalas": [{
+        "desde": 0,
+        "hasta": 6,
+        "precio": 3.50
+      },{
+        "desde": 0,
+        "hasta": 6,
+        "precio": 3.50
+      }
+    ]
+  }
+}
