@@ -1,17 +1,34 @@
 {
-  "Producto": {
-    "codigo": "b",
-    "nombre": "d",
-    "uri": "f",
-    "escalas": [{
-        "desde": 0,
-        "hasta": 6,
-        "precio": 3.50
-      },{
-        "desde": 0,
-        "hasta": 6,
-        "precio": 3.50
+  "Catalogo": [
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "uri": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "uri": "http://www.corporaciondecar.com/img_productos/productos_imagenes_682_z45XC.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
       }
     ]
-  }
 }
