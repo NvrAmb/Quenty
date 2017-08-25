@@ -29,6 +29,156 @@
             "precio": 3.50
           }
         ]
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Ariel",
+        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Ace",
+        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "escalas": [{
+            "desde": 0,
+            "hasta": 6,
+            "precio": 3.50
+          },{
+            "desde": 7,
+            "hasta": 10,
+            "precio": 3.50
+          }
+        ]
       }
     ]
 }
