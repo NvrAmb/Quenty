@@ -1,7 +1,7 @@
 {
   "Catalogo": [
       {
-        "codigo": "C001",
+        "codigo": "C002",
         "nombre": "Ariel",
         "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
         "escalas": [{
@@ -16,9 +16,9 @@
         ]
       },
       {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "codigo": "C003",
+        "nombre": "Prestobarba3",
+        "imagen": "http://d26lpennugtm8s.cloudfront.net/stores/089/684/products/prestobarba-3-mas-lubric-ice-2-maq-afe1-4bd30c2a71dd8dfece14670592801893-320-0.png",
         "escalas": [{
             "desde": 0,
             "hasta": 6,
@@ -31,9 +31,9 @@
         ]
       },
       {
-        "codigo": "C001",
-        "nombre": "Ariel",
-        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
+        "codigo": "C004",
+        "nombre": "Pampers",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZ3vLTUsTCVNFgD9B8e_cV4L_ma9uxLaQDyfsP2CZvCmKolUBrg",
         "escalas": [{
             "desde": 0,
             "hasta": 6,
@@ -46,9 +46,9 @@
         ]
       },
       {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "codigo": "C005",
+        "nombre": "Duracell",
+        "imagen": "https://www.duracell.in/upload/sites/10/2016/07/5000394121201_81559692_CBAA4IN.jpg_PNGWebUse-1-11.png",
         "escalas": [{
             "desde": 0,
             "hasta": 6,
@@ -61,114 +61,9 @@
         ]
       },
       {
-        "codigo": "C001",
-        "nombre": "Ariel",
-        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C001",
-        "nombre": "Ariel",
-        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C001",
-        "nombre": "Ariel",
-        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C001",
-        "nombre": "Ariel",
-        "imagen": "https://bwdny.com/wp-content/uploads/sites/2/35224-06339.jpg",
-        "escalas": [{
-            "desde": 0,
-            "hasta": 6,
-            "precio": 3.50
-          },{
-            "desde": 7,
-            "hasta": 10,
-            "precio": 3.50
-          }
-        ]
-      },
-      {
-        "codigo": "C002",
-        "nombre": "Ace",
-        "imagen": "http://www.mercadonegro.pe/cdn/2feb5a716bbb6bb1f096ad97fd98add9.jpg",
+        "codigo": "C006",
+        "nombre": "Oral-B",
+        "imagen": "https://p1.zopnow.com/images/products/320/oral-b-pro-health-base-twin-pack-medium-v-1-pc-1.png",
         "escalas": [{
             "desde": 0,
             "hasta": 6,
